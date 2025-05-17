@@ -19,7 +19,7 @@ body{
   background: grey;
   box-shadow: 0 2px 0.9px black;
   position: relative;
-  background: url("/myshab3.jpg");
+  background: url("myshab3.jpg");
   backface-visibility: 0.3px;
   background-size: cover;
   background-position: center;
